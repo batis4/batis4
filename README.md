@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @batis4
 - 👀 I’m interested in Modding & Programming
 - 🌱 I’m currently studying CS major
+- 😃 I'm studying at University of People and Al-Arab University.
 
 
 <!---
