@@ -29,7 +29,7 @@ I love open-source and sharing my work to help others and collaborate with the c
 
 
 
-![batis4 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![batis4 GitHub stats](https://github-readme-stats.vercel.app/api?username=batis4&show_icons=true&theme=radical)
 
 --
 
