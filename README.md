@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Location-Yemen-red" alt="Location" />
-  <img src="https://img.shields.io/badge/Age-20-blue" alt="Age" />
+  <img src="https://img.shields.io/badge/Age-21-blue" alt="Age" />
   <img src="https://img.shields.io/badge/Status-Active-green" alt="Status" />
 </div>
 
@@ -20,12 +20,12 @@ I love open-source and sharing my work to help others and collaborate with the c
 
 ## 🔧 Skills & Technologies
 
-| Programming Languages | Frameworks & Tools            | Skills & Expertise                          |
-|----------------------|------------------------------|---------------------------------------------|
-| C#                   | ASP.NET, .NET                 | Qualcomm diagnostics                         |
-| Python               | Flask, Odoo                  | Backend Development                         |
-| JavaScript           | Next.js, React               | ADB Automation, AI Assistant Development (SAM) |
-| PHP                  | Laravel                      | Software Development                        |
+| Programming Languages | Frameworks & Tools            | 
+|----------------------|------------------------------|
+| C#                   | ASP.NET, .NET                 | 
+| Python               | Flask, Odoo                  |
+| JavaScript           | Next.js, React               | 
+| PHP                  | Laravel                      |
 
 
 
