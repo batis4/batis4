@@ -64,8 +64,8 @@ I love open-source and sharing my work to help others and collaborate with the c
 | Platform  | Link                                                  |
 |-----------|-------------------------------------------------------|
 | Email     | salim.batis4@gmail.com                                |
-| LinkedIn  | [linkedin.com/in/yourprofile](https://www.linkedin.com/in/salem-ba-tis-026a80274/) |
-| Telegram    | [github.com/yourusername](https://t.me/real_salim)         |
+| LinkedIn  | [My Page](https://www.linkedin.com/in/salem-ba-tis-026a80274/) |
+| Telegram    | [Chat me now !](https://t.me/real_salim)         |
 
 ---
 
