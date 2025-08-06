@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-I am a passionate software developer and UI/UX enthusiast from Yemen. Currently, I am in my third year of university studying Computer Science and continuously improving my skills in programming and software development.
+I am a passionate software developer and AI enthusiast from Yemen. Currently, I am in my third year of university studying Computer Science and continuously improving my skills in software & web development
 
-I enjoy creating innovative tools and projects that solve real problems, such as my WhatsApp Unlocker tool and my AI assistant project called **SAM**. I have experience working with various technologies including C#, Next.js, React, Qualcomm diagnostics, and automation using ADB.
+I enjoy creating innovative tools and projects that solve real problems, such as my ALNOAMANY-TOOL and my AI assistant project called **SAM**. I have experience working with various technologies including C#, Next.js, Qualcomm diagnostics, automation ADB, and laravel & ASP.NET frameworks as backend.
 
 I love open-source and sharing my work to help others and collaborate with the community.
 
@@ -20,11 +20,33 @@ I love open-source and sharing my work to help others and collaborate with the c
 
 ## 🔧 Skills & Technologies
 
-| Programming Languages | Tools & Frameworks             | Other Skills                       |
-|-----------------------|-------------------------------|----------------------------------|
-| C#                    | Next.js / React                | Qualcomm diagnostics             |
-| Python                | Git / GitHub                   | UI/UX Design                    |
-| JavaScript            | ADB Automation                 | AI Assistant Development (SAM)  |
+| Programming Languages | Frameworks & Tools            | Skills & Expertise                          |
+|----------------------|------------------------------|---------------------------------------------|
+| C#                   | ASP.NET, .NET                 | Qualcomm diagnostics                         |
+| Python               | Flask, Odoo                  | Backend Development                         |
+| JavaScript           | Next.js, React               | ADB Automation, AI Assistant Development (SAM) |
+| PHP                  | Laravel                      | Software Development                        |
+
+
+
+![batis4 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+--
+
+## ⚙️ My Technical and Personal Skills
+
+- Advanced experience in C# programming and developing applications with .NET and ASP.NET  
+- High-quality web frontend development using Next.js and React  
+- Working with Qualcomm Diagnostics systems, USB interfaces, and ADB (Android Debug Bridge)  
+- Backend development using Python with Flask and Odoo frameworks  
+- Automation scripting and tool development using ADB  
+- Developing AI tools like the SAM assistant, integrating local databases and APIs  
+- Creating helpful utilities such as the WhatsApp Unlocker tool  
+- Experience in PHP development with Laravel framework  
+- Writing clean, organized code and working in diverse development environments  
+- Internship experience at companies with real-world project development  
+- Strong teamwork and collaboration skills across multidisciplinary team
+
 
 ---
 
